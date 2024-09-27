@@ -1,0 +1,60 @@
+html{
+    background-color: black;
+    background-image: url("01.jpg");
+}
+li{
+    font-size: 10;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgb(250, 247, 247);
+    width: auto;
+    height: auto;
+    padding: 10px,10px,10px,10px;
+    display: block;
+    opacity: 0.4;
+}
+a{
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 10;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    visibility: visible;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient();
+}
+article{
+    background-color: rgb(48, 48, 48);
+    height: 1920px;
+    width: auto;
+    opacity: 0.6;
+}
+aside{
+    background-color: rgb(174, 173, 173);
+    width: auto;
+    height: 400px;
+    display: contents;
+    padding-left: 20px;
+    padding: 10px,10px,10px,10px;
+}
+header{
+    background-image: url("01.jpg");
+    display: block;
+}
+h2{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
