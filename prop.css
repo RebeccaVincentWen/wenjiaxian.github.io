@@ -4,7 +4,7 @@ html{
 }
 li{
     font-size: 10;
-    color: black;
+    color: rgb(249, 247, 247);
     font-family: Arial, Helvetica, sans-serif;
 }
 nav{
@@ -14,9 +14,11 @@ nav{
     padding: 10px,10px,10px,10px;
     display: block;
     opacity: 0.4;
+    color: white;
+    background-image: linear-gradient(to bottom,rgb(0,0,0),rgb(170, 170, 170));
 }
 a{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
@@ -32,8 +34,8 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     visibility: visible;
     text-align: center;
+    background-image: linear-gradient(to bottom,rgb(144, 142, 142),rgb(25, 25, 25));
     color: white;
-    background-image: linear-gradient();
 }
 article{
     background-color: rgb(48, 48, 48);
