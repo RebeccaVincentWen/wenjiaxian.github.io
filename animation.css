@@ -1,0 +1,20 @@
+@keyframes BezierAnimation-Top {
+    0%{
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 0.618;
+    }
+}
+@keyframes BezierAnimation-Top-N{
+    0%{
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
